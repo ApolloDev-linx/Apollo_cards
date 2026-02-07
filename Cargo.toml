@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+"crates/apollo_core",
+"crates/apollo_storage",
+"crates/apollo_import",
+]
+
+resolver = "2"
